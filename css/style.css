@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 *{
 margin: 0;
@@ -58,6 +57,7 @@ color: white;
     background: black;
     background-position: center;
     background-size: cover;
+    
 }
 
 .container2 {
@@ -73,7 +73,6 @@ color: white;
     column-gap: 25px;
 
 }
-=======
 .section-box2 {
   flex-direction: column;
   display: flex;
@@ -214,4 +213,3 @@ color: white;
   display: flex;
   justify-content: space-between;
 }
->>>>>>> 241ea3b737dfcc62acc7b67fbbaebe39c5e64c5e
